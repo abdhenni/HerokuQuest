@@ -1,4 +1,4 @@
 {
-    "host": "Set production websocket host here",
+    "host": "stark-mesa-7305.herokuapp.com",
     "port": 8000
 }
